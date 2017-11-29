@@ -30,7 +30,7 @@ void CashierUI::startUI()
         cin >> choice;
         
         if (choice == '1') {
-            //Location location;
+            ///Location
         } else if (choice == '2') { 
             //
         } else if (choice == '3') {
